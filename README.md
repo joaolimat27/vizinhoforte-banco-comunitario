@@ -43,5 +43,12 @@ Após gerar cada tela, use o painel de edição do Stitch para ajustar detalhes 
 
 * **Tamanho de toque:** Verifique se os botões têm altura suficiente para dedos (mínimo de `44px` a `48px`), facilitando o uso por trabalhadores manuais e idosos.
 * **Remoção de ruído:** Peça ao Stitch para remover menus hambúrguer complexos ou gráficos financeiros avançados; mantenha no máximo **3 itens na barra de navegação inferior**: `Buscar`, `Meus Recibos` e `Meu Perfil`.
+---
 
-**Autor:João Silvano**Disciplina:Fullstack**Professor Robson**Prototipo interativo (Stich)**
+### 📋 Identificação do Projeto
+* **Autor:** João Silvano
+* **Disciplina:** Fullstack
+* **Professor:** Robson
+* **Protótipo Interativo (Stitch):** [https://stitch.google.com/projects/4157003871752540711]
+*
+
