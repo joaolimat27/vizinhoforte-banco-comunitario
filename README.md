@@ -1,6 +1,6 @@
-O **Stitch** (ferramenta de design de interfaces com IA do Google, acessível em `stitch.withgoogle.com` ou via o domínio indicado pelo seu professor) permite gerar protótipos visuais de alta fidelidade e código frontend (HTML/CSS/React) diretamente a partir de descrições em texto (prompts).
+O **Stitch** (ferramenta de design de interfaces com IA do Google, acessível em `stitch.withgoogle.com` permite gerar protótipos visuais de alta fidelidade e código frontend (HTML/CSS/React) diretamente a partir de descrições em texto (prompts).
 
-Para o seu ensaio de pré-projeto da **Proposta 4 (Banco Comunitário de Micro-Serviços)**, o objetivo no Stitch é gerar as **4 telas principais do MVP** com consistência visual, acessibilidade (botões grandes, alto contraste) e foco em dispositivos móveis (*Mobile-First*).
+Para o seu ensaio de pré-projeto da (Banco Comunitário de Micro-Serviços)**, o objetivo no Stitch é gerar as **4 telas principais do MVP** com consistência visual, acessibilidade (botões grandes, alto contraste) e foco em dispositivos móveis (*Mobile-First*).
 
 ---
 
